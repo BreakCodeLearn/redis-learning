@@ -12,7 +12,7 @@ public class RedisChallenge {
     final Jedis jedis = new Jedis("172.16.22.21", 16783);
     jedis.auth("himanshu");
     jedis.flushAll();
-    for (int i = 0; i <= 100; i++) {
+    for (int i = 1; i <= 100; i++) {
       jedis.rpush("myKey", Integer.toString(i));
     }
     jedis.close();
