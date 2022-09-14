@@ -27,7 +27,6 @@ public class RedisChallenge {
       System.out.println(
           HimanRedisKey + " : KEY already exist in the souce-db, so deleting it for the sake of this exercise.");
       jedis.del(HimanRedisKey);
-      jedis.flushAll();
     }
     for (int i = 1; i <= 100; i++) {
       jedis.zadd(HimanRedisKey, i, Integer.toString(i));
