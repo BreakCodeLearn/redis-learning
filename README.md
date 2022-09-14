@@ -8,10 +8,10 @@ Write a small JAVA Program to;
   - Read and print them in reverse order from replica-db.
 
 ## Instructions
-The program can executed in the pre-configured enviornment provided by the Redis.
+The program can executed in the pre-configured enviornment provided by the Redis (Password: bQtZ4fv).
 
-[VS Code IDE](https://code-dot-rl-s-tc-himanchu.ps-redislabs.com/)
-Password: bQtZ4fv
+[Redis: VS Code IDE](https://code-dot-rl-s-tc-himanchu.ps-redislabs.com/)
+
 
 Click on the provided IDE, locate the 'RedisChallenge' java file and execute/ run the program. 
 You can check the output of the program on the IDE
