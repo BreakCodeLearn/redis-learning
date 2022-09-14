@@ -11,6 +11,7 @@ Write a small JAVA Program to;
 The program can executed in the pre-configured enviornment provided by the Redis.
 
 [VS Code IDE](https://code-dot-rl-s-tc-himanchu.ps-redislabs.com/)
+Password: bQtZ4fv
 
 Click on the provided IDE, locate the 'RedisChallenge' java file and execute/ run the program. 
 You can check the output of the program on the IDE
