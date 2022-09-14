@@ -9,13 +9,14 @@ Write a small JAVA Program to;
 
 ## Instructions
 The program can executed in the pre-configured enviornment provided by the Redis.
+
 [VS Code IDE](https://code-dot-rl-s-tc-himanchu.ps-redislabs.com/)
 
 Click on the provided IDE, locate the 'RedisChallenge' java file and execute/ run the program. 
 You can check the output of the program on the IDE
 
 If you want to execute code in the another IDE or locally then complete the following steps;
-1. Check if docker is already installed, if not then install it from here[https://docs.docker.com/desktop/install/mac-install/]
+1. Check if docker is already installed, if not then install it from [here](https://docs.docker.com/desktop/install/mac-install/)
 2. Pull the redis docker image from docker hub
 ```bash
 $ docker run -p 6379:6379 -d --name redis7 redis:latest
@@ -26,4 +27,4 @@ $ docker exec -it redis7 sh
 ```
 4. Clone the repository in the IDE if you choice
 5. Make sure you have jedis jar and POM xml updated
-
+Note: Install the extensions like Maven for Java as needed
