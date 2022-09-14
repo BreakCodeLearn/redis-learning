@@ -27,4 +27,5 @@ $ docker exec -it redis7 sh
 ```
 4. Clone the repository in the IDE if you choice
 5. Make sure you have jedis jar and POM xml updated
+
 Note: Install the extensions like Maven for Java as needed
