@@ -27,6 +27,7 @@ $ docker run -p 6379:6379 -d --name redis7 redis:latest
 ```bash
 $ docker exec -it redis7 sh
 ```
+
 4. Clone the repository in the IDE of your choice
 5. Make sure you have jedis jar and POM xml updated for dependencies
 
