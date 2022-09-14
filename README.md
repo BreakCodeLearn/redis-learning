@@ -1,5 +1,5 @@
 # REDIS: Learning Exercise
-The purpose of the exercise is to learn the basics of Redis database.
+The purpose of the exercise is to learn the basics of Redis database and how we an interact with it using JAVA.
 Redis is an open source (BSD licensed), in-memory data structure store used as a database, cache, message broker, and streaming engine.
 
 ## Problem Statement
